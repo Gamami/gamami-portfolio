@@ -28,31 +28,27 @@ const Projects = () => {
           />
           <ProjectsCard
             title="WEBSITE BANK BPR Prima"
-            des=" Website Bank BPR Prima V1 yang di bangun menggunakan bahasa pemograman Typescript yang responsive"
+            des=" Website Bank BPR Prima V2 yang di bangun menggunakan bahasa pemograman Javascript yang responsive"
             src={projectTwo}
           />
           <ProjectsCard
             title="WEBSITE BANK BPR Prima"
-            des=" Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-              Explicabo quibusdam voluptate sapiente voluptatibus harum quidem!"
+            des=" Website Bank BPR Prima V2 yang di bangun menggunakan Wordpress dan beberapa plugin yang responsive https://bprprimamagelang.com/"
             src={projectThree}
           />
           <ProjectsCard
             title="WEBSITE BANK BPR Prima"
-            des=" Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-              Explicabo quibusdam voluptate sapiente voluptatibus harum quidem!"
+            des=" Website Bank BPR Prima V2 yang di bangun menggunakan bahasa pemograman react.s dan boostrap yang responsive"
             src={projectFour}
           />
           <ProjectsCard
             title="E-commerce Website"
-            des=" Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-              Explicabo quibusdam voluptate sapiente voluptatibus harum quidem!"
+            des=" Website E-commerce yang di bangun menggunakan MERN (MongoDB, Express.js, React.js, Node.js) dengan beberpa feature seperti Login dan Payment menggunakan midtrans"
             src={projectFive}
           />
           <ProjectsCard
             title="Portfolio Pencapaian Sales"
-            des=" Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-              Explicabo quibusdam voluptate sapiente voluptatibus harum quidem!"
+            des=" Website Portfolio Pencapaian Sales yang di bangun menggunakan MERN (MongoDB, Express.js, React.js, Node.js) dengan beberpa feature seperti Login , Grafik, dan pencapian sales month "
             src={projectSix}
           />
         </div>

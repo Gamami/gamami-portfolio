@@ -24,13 +24,13 @@ const Education = () => {
           <ResumeCard
             title=" SMA Negeri 1 Randudongkal "
             subTitle="Jurusan IPA (2004 - 2007)"
-            result="4.75/5"
+            result="4.25/5"
             des="Sekolah Menengah Atas (disingkat SMA), adalah jenjang pendidikan menengah pada pendidikan formal di Indonesia setelah lulus Sekolah Menengah Pertama (atau sederajat). "
           />
           <ResumeCard
             title=" MTs Negeri 1 Pemalang "
             subTitle="Madrasah Tsanawiyah (2000 - 2004)"
-            result="5.00/5"
+            result="4.00/5"
             des="Madrasah Tsanawiyah (disingkat MTs) adalah jenjang dasar pada pendidikan formal di Indonesia, setara dengan Sekolah Menengah Pertama, yang pengelolaannya dilakukan oleh Departemen Agama."
           />
         </div>
